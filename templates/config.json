@@ -1,0 +1,35 @@
+[
+  {
+    "id": "gemini_generated_image_4r4pvz4r4pvz4r4p",
+    "name": "Gemini_Generated_Image_4r4pvz4r4pvz4r4p",
+    "category": "standard",
+    "width": 2528,
+    "height": 1696,
+    "previewUrl": "https://raw.githubusercontent.com/iiiiivy123/EtsyBGTemplate/main/templates/scenes/gemini_generated_image_4r4pvz4r4pvz4r4p.png",
+    "slots": [
+      {
+        "id": "slot-1766758776338",
+        "name": "Screen",
+        "corners": {
+          "topLeft": {
+            "x": 635,
+            "y": 405
+          },
+          "topRight": {
+            "x": 1910,
+            "y": 405
+          },
+          "bottomRight": {
+            "x": 1910,
+            "y": 1210
+          },
+          "bottomLeft": {
+            "x": 635,
+            "y": 1210
+          }
+        }
+      }
+    ],
+    "isCustom": true
+  }
+]
